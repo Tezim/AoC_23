@@ -4,7 +4,7 @@
 
 | Day  |     Solution     | Day  |     Solution     |
 |:----:|:----------------:|:----:|:----------------:|
-|  01  | <a href=""> </a> |  14  | <a href=""> </a> |
+|  01  | <a href="day01/01.py"> Day 01</a> |  14  | <a href=""> </a> |
 |  02  | <a href=""> </a> |  15  | <a href=""> </a> |
 |  03  | <a href=""> </a> |  16  | <a href=""> </a> |
 |  04  | <a href=""> </a> |  17  | <a href=""> </a> |
